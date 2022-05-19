@@ -1,0 +1,86 @@
+{
+  "id": "3260249",
+  "name": "meituan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1841677",
+      "name": "美食",
+      "font_class": "meishi1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5833837",
+      "name": "拍照-01",
+      "font_class": "paizhao-",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "3858023",
+      "name": "民宿",
+      "font_class": "minsu_",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "3858880",
+      "name": "酒店住宿",
+      "font_class": "jiudianzhusu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5732997",
+      "name": "运动、跑步",
+      "font_class": "yundong",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7150077",
+      "name": "生活服务",
+      "font_class": "shenghuofuwu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9074033",
+      "name": "2_7休闲娱乐",
+      "font_class": "_xiuxianyule",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "11428234",
+      "name": "视频电影-01",
+      "font_class": "shipindianying-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21830909",
+      "name": "机票",
+      "font_class": "jipiao",
+      "unicode": "f61b",
+      "unicode_decimal": 63003
+    },
+    {
+      "icon_id": "27435269",
+      "name": "02男性角色",
+      "font_class": "a-02nanxingjiaose",
+      "unicode": "ee7f",
+      "unicode_decimal": 61055
+    },
+    {
+      "icon_id": "24111569",
+      "name": "美团",
+      "font_class": "meituan",
+      "unicode": "fad9",
+      "unicode_decimal": 64217
+    }
+  ]
+}
